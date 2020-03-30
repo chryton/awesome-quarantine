@@ -46,6 +46,7 @@ Where possible, please support the original creators of the game if you are play
   - Boardgamearena.com
   - Detective: Murder in Hong Kong https://ninjabunny.github.io/mihk/
   - Space Team (internet mode) https://spaceteam.ca/
+- [Board Game Companies supporting FLGSs](https://docs.google.com/document/d/1AMPn-qVL1InyUE_8R_Yt_-rL2x0xs103W4zXN7MC5vo/edit?fbclid=IwAR2jWHF7XbxcVCelGiIVT_gco590IhMS9kpHUY-ClrSmXzf2OT7obpriR7g)
 
 
 ## Media & Entertainment
