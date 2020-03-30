@@ -24,6 +24,7 @@ If you are able to, please donate to some of the great non-profits, museums, and
 ## Learning
 
 - https://www.skypeascientist.com/
+- [Daily Live - Ask Math Anything](https://www.youtube.com/playlist?list=PLgTkKBA6LRqbFm9UzTUSX0af2yDknsAyG)
 
 ## Social
 
