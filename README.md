@@ -47,3 +47,4 @@ Where possible, please support the original creators of the game if you are play
 - Checkout ebooks from your local library
   - https://www.overdrive.com/apps/libby/
   - https://soraapp.com/welcome
+- https://www.netflixparty.com/
