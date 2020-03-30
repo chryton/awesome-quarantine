@@ -15,7 +15,7 @@ If you are able to, please donate to some of the great non-profits, museums, and
 - [Zoos](#zoos)
 - [Learning](#learning)
 - [Social](#social)
-- [Media & Entertainment](#media-entertainment)
+- [Media & Entertainment](#media--entertainment)
 
 ## Museums
 
