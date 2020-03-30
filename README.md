@@ -11,20 +11,27 @@ If you are able to, please donate to some of the great non-profits, museums, and
 
 # Table of Contents
 
-- Museums
-- Learning
-- Social
-- Media & Entertainment
+- [Museums](#museums)
+- [Zoos](#zoos)
+- [Learning](#learning)
+- [Social](#social)
+- [Media & Entertainment](#media-entertainment)
 
 ## Museums
 
 - https://artsandculture.google.com/partner?hl=en
 - https://artsandculture.google.com/search/streetview?project=streetviews
 
+## Zoos
+
+- [Columbus, OH Zoo](https://columbuszoo.org/home/cameras)
+- [Smithsonian's National Zoo and Conservation Biology Institute](https://nationalzoo.si.edu/webcams)
+
 ## Learning
 
 - https://www.skypeascientist.com/
 - [Daily Live - Ask Math Anything](https://www.youtube.com/playlist?list=PLgTkKBA6LRqbFm9UzTUSX0af2yDknsAyG)
+- COSI Daily Learning Streams https://cosi.org/cosiconnects
 
 ## Social
 
