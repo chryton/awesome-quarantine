@@ -21,6 +21,7 @@ If you are able to, please donate to some of the great non-profits, museums, and
 
 - https://artsandculture.google.com/partner?hl=en
 - https://artsandculture.google.com/search/streetview?project=streetviews
+- Columbus Museum of Art http://www.columbusmuseum.org/embark-collection/pages/PRT32170/?sid=15&x=8411
 
 ## Zoos
 
