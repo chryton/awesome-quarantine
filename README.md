@@ -33,6 +33,7 @@ If you are able to, please donate to some of the great non-profits, museums, and
 - https://www.skypeascientist.com/
 - [Daily Live - Ask Math Anything](https://www.youtube.com/playlist?list=PLgTkKBA6LRqbFm9UzTUSX0af2yDknsAyG)
 - COSI Daily Learning Streams https://cosi.org/cosiconnects
+- Shop Class At Home https://www.youtube.com/playlist?list=PLice_sU_6Rfib7iG0VPeCwg81DVvHgJBo
 
 ## Social
 
