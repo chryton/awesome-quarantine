@@ -4,7 +4,7 @@
 
 Resources to help keep you, your family, and your friends somewhat sane during COVID-19.
 
- Direct links to each item are made where possible and no affiliate links are used directly from this list. Items marked with a `*` may require payment or a subscription charge after so many days.
+Direct links to each item are made where possible and no affiliate links are used directly from this list. Items marked with a `*` may require payment or a subscription charge after so many days.
 
 If you are able to, please donate to some of the great non-profits, museums, and individuals who are donating their time to help others (both on and off this list) in this uncertain time.
 
@@ -48,7 +48,6 @@ If you are able to, please donate to some of the great non-profits, museums, and
 - National Women's History Musuem https://www.womenshistory.org/womens-history/online-exhibits | https://www.womenshistory.org/resources/general/rosie-riveter-oral-histories
 - US Air Force Museum https://www.nationalmuseum.af.mil/Visit/Virtual-Tour/
 - Thyssen-Bornemisza Museum https://www.museothyssen.org/en/thyssenmultimedia
-- 
 
 
 ## Zoos & Aquariums
@@ -66,6 +65,8 @@ If you are able to, please donate to some of the great non-profits, museums, and
 - [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams)
 - [National Aquarium](https://aqua.org/explore/livestreams)
 - [Shedd Aquarium](https://www.sheddaquarium.org/exhibits/underwater-beauty-exhibit)
+- [Aquarium of the Pacific](https://www.aquariumofpacific.org/exhibits/webcams)
+
 
 ## Learning
 
@@ -106,4 +107,6 @@ Where possible, please support the original creators of the game if you are play
 - Checkout ebooks from your local library
   - https://www.overdrive.com/apps/libby/
   - https://soraapp.com/welcome
+  - https://libbyapp.com/welcome
 - https://www.netflixparty.com/
+- [Internet Arcade](https://archive.org/details/internetarcade)
